@@ -1,0 +1,62 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.item-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.font-bold{
+    font-weight: 900;
+}
+
+.my-1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.my-2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.px-2{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.text-white{
+    color: white;
+}
+
+.btn{
+    padding: 7px 12px;
+    border: 2px solid black;
+    border-radius: 6px;
+    color: black;
+    background-color: white;
+    cursor: pointer;
+}
+
+.overflow-x-hidden{
+    overflow-x: hidden;
+}
+
+.text-center{
+    text-align: center;
+}
